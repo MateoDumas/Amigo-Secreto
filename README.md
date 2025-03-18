@@ -1,4 +1,3 @@
-﻿# Amigo-Secreto
 # Amigo-Secreto
 🎉 ¡Bienvenido al Generador de Amigos Secretos! 🎁
 
