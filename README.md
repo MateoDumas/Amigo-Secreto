@@ -25,7 +25,7 @@ Edita/elimina participantes con gestos intuitivos
 HTML5 · CSS3 (Grid/Flexbox) · JavaScript ES6+ · Web Audio API
 📥 ¿Listo para la magia?
 # Clona y juega
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/MateoDumas/Amigo-Secreto.git
 cd amigo-secreto
 O simplemente:
 👉 ¡Prueba la DEMO en vivo aquí! 👈
